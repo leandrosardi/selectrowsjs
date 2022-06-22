@@ -12,7 +12,7 @@ Get started in 3 simple steps.
 
 ```html
 <script src="jquery-3.5.1.min.js" type="text/javascript"></script>
-<script src="./filters.min.js" type="text/javascript"></script>
+<script src="./selectrows.min.js" type="text/javascript"></script>
 ```
 
 **Step 3.** Create your table with rows selection.
@@ -50,3 +50,7 @@ Get started in 3 simple steps.
     selectRowsJs.init();
 </script>
 ```
+
+## 2. Using SelectRows.Js as a [MySaaS](https://github.com/leandrosardi/mysaas) Extension
+
+_(pending)_
