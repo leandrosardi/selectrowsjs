@@ -2,6 +2,10 @@
 
 The **SelectRows.Js** is a JavaScript library for handling the rows selection of an HTML table.
 
+1. [Getting Started](#1-getting-started).
+2. [Enabling / Disabling Buttons](#2-enabling--disabling-buttons).
+3. [Using SelectRows.Js as a MySaaS Extension](#3-using-selectrowsjs-as-a-mysaas-extension).
+
 ## 1. Getting Started
 
 Get started in 3 simple steps.
