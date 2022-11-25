@@ -1,3 +1,5 @@
+![GitHub issues](https://img.shields.io/github/issues/leandrosardi/selectrowsjs) ![GitHub](https://img.shields.io/github/license/leandrosardi/selectrowsjs) ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/leandrosardi/selectrowsjs) ![GitHub last commit](https://img.shields.io/github/last-commit/leandrosardi/selectrowsjs)
+
 # SelectRows.Js
 
 The **SelectRows.Js** is a JavaScript library for handling the rows selection of an HTML table.
