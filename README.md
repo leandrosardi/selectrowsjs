@@ -6,6 +6,8 @@ The **SelectRows.Js** is a JavaScript library for handling the rows selection of
 
 [Find a live example here](https://connectionsphere.com/selectrowsjs).
 
+**>>>> IF YOU LIKE THIS PROJECT, STAR IT ! <<<<** 
+
 **Outline:**
 
 1. [Getting Started](#1-getting-started).
